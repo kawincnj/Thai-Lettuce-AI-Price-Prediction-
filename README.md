@@ -6,7 +6,7 @@ Research code for **A Comparative Study for Effectiveness of Different Artificia
 
 ## Study and contribution
 
-The study compares AI models for Thai lettuce price prediction. Kawin Chamnanchak served as corresponding author, cleaned and profiled the agricultural price data, and developed the XGBoost experiment. The best model reported in the paper achieved RMSE 6.67 and MAE 5.33.
+The study compares AI models for Thai lettuce price prediction. Kawin Chamnanchak served as first and corresponding author, cleaned and profiled the agricultural price data, and developed the XGBoost experiment. The best model reported in the paper achieved RMSE 6.67 and MAE 5.33.
 
 Authors: Kawin Chamnanchak, Nopparuj Rattanasiri, Yossawat Imjai, and Pichamon Muroh.
 
